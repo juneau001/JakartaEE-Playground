@@ -19,7 +19,7 @@
         <dependency>
             <groupId>org.primefaces</groupId>
             <artifactId>primefaces</artifactId>
-            <version>6.1</version>
+            <version>8.0</version>
         </dependency>
         <!-- Java EE 8 -->
         <!-- https://mvnrepository.com/artifact/jakarta.faces/jakarta.faces-api -->
